@@ -10,7 +10,6 @@ export default {
 
 <template>
     <div @click="number--">
-        <p>Bruh I love {{ number }} years olds</p>
         <p @click.stop>HAHAHA</p>
     </div>
 </template>
