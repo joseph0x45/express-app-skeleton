@@ -9,7 +9,4 @@ export default {
 </script>
 
 <template>
-    <div @click="number--">
-        <p @click.stop>HAHAHA</p>
-    </div>
 </template>
