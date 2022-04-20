@@ -38,4 +38,4 @@ heroku push master
 ```
 or create a Heroku app on their [website](https://heroku.com)
 
-Follow my [github account](https://github.com/TheWisePigeon) for more starter packages and updates
+Follow me for more starter packages and updates
