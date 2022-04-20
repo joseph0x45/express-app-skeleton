@@ -11,20 +11,20 @@ nodemon app.js
 We have four folders:
 Controllers, Middlewares, Models and Routes
 
-## Controllers
+### Controllers
 This is where you will decide what goes on when a client access a route, and you do that by calling the functions you defined in your services
 
-## Services
+### Services
 This is where you will write most of your logic, this code can quickly grow up and lead to spaghetti, that's why you have to separate the functions
 according to which data structure they deal with
 
-## Models
+### Models
 Here you define the different data structures that you will have to work with in your app. These will be mongoose schemas exported as mongoose models
 
-## Middlewares
+### Middlewares
 Think of it as helpers, something you need to do quite often but that's not really part of your buiseness logic, like check authentication state for example
 
-## Routes
+### Routes
 The name speak for himself, here live routes that clients interact with.
 
 That's it for the folders
