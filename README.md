@@ -2,6 +2,8 @@
 This is a basic node express app template to get you started fast.
 ## Usage
 ```bash
+//first you need to clone the repo
+git clone https://github.com/TheWisePigeon/express-app-skeleton
 //after you cloned the repo, cd into the folder
 npm install
 nodemon app.js
