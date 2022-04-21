@@ -1,5 +1,5 @@
 # express-app-skeleton
-This is a basic node express app template to get you started fast.
+
 ## Usage
 ```bash
 //first you need to clone the repo
@@ -31,6 +31,8 @@ The name speak for himself, here live routes that clients interact with.
 
 That's it for the folders
 
+This is a basic node express app template to get you started fast with everything you need to create a fully fledged express api, from the files, to the folder and even to the deployment on Heroku.
+
 # Deploy to heroku
 I added everything you need to deploy your app to heroku, all you need to do is either use the CLI
 ```bash
@@ -40,4 +42,5 @@ heroku push master
 ```
 or create a Heroku app on their [website](https://heroku.com)
 
+I will be adding new features to this template so if you would like to stay updated, follow my github profile
 Hope it can help :)
